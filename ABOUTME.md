@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @irenetassinato
+- 👀 I’m interested in data analysis and bioimaging, with a focus on programming for biomedical data, diagnostics, and a passion for the fields of neuroscience and neurorehabilitation. 
+- 🌱 I’m currently studying at the University of Padua (Italy) and attending the master's degree course in Rehabilitation Bioengineering.
+- 📫 How to reach me: irenetassinato9@gmail.com | LinkedIn www.linkedin.com/in/irene-tassinato-601001229
+- 😄 Pronouns: she/her
